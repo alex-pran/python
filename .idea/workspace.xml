@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5fd88d44-d95c-46f0-a7bf-40d90a055fd0" name="Default Changelist" comment="update">
-      <change afterPath="$PROJECT_DIR$/ex_5.3" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/command_if.py" beforeDir="false" afterPath="$PROJECT_DIR$/command_if.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/toppings.py" beforeDir="false" afterPath="$PROJECT_DIR$/toppings.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -47,7 +45,7 @@
       <recent name="C:\dev\book1" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.ex_5.3">
+  <component name="RunManager" selected="Python.toppings">
     <configuration name="amusement_park" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="book1" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -176,9 +174,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.toppings" />
         <item itemvalue="Python.ex_5.3" />
         <item itemvalue="Python.command_if" />
-        <item itemvalue="Python.toppings" />
         <item itemvalue="Python.amusement_park" />
         <item itemvalue="Python.ex_5_1" />
       </list>
@@ -221,7 +219,14 @@
       <option name="project" value="LOCAL" />
       <updated>1621697302474</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="update">
+      <created>1621708379739</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1621708379739</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
