@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5fd88d44-d95c-46f0-a7bf-40d90a055fd0" name="Default Changelist" comment="update">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/amusement_park.py" beforeDir="false" afterPath="$PROJECT_DIR$/amusement_park.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/toppings.py" beforeDir="false" afterPath="$PROJECT_DIR$/toppings.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,7 +44,7 @@
       <recent name="C:\dev\book1" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.amusement_park">
+  <component name="RunManager" selected="Python.toppings">
     <configuration name="amusement_park" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="book1" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -151,7 +150,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="magic_ number" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="toppings" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="book1" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -163,7 +162,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/magic_ number.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/toppings.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -174,11 +173,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.toppings" />
         <item itemvalue="Python.amusement_park" />
         <item itemvalue="Python.command_if" />
         <item itemvalue="Python.ex_5_1" />
         <item itemvalue="Python.banned_users" />
-        <item itemvalue="Python.magic_ number" />
       </list>
     </recent_temporary>
   </component>
@@ -198,7 +197,14 @@
       <option name="project" value="LOCAL" />
       <updated>1621694849986</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="update">
+      <created>1621696730726</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1621696730726</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
