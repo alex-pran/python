@@ -3,13 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="5fd88d44-d95c-46f0-a7bf-40d90a055fd0" name="Default Changelist" comment="">
       <changelist_data name="alex-pran" email="" />
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/book1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/bookcourse.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/amusement_park.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,9 +39,14 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="preferences.general" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.ex_5_1">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\dev\book1" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.command_if">
     <configuration name="banned_users" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="book1" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -68,7 +68,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="car" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="command_if" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="book1" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -80,7 +80,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/car.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/command_if.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -175,11 +175,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.command_if" />
         <item itemvalue="Python.ex_5_1" />
         <item itemvalue="Python.banned_users" />
         <item itemvalue="Python.magic_ number" />
         <item itemvalue="Python.toppings" />
-        <item itemvalue="Python.car" />
       </list>
     </recent_temporary>
   </component>
@@ -204,6 +204,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
