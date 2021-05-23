@@ -45,8 +45,8 @@
       <recent name="C:\dev\book1" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.ex_5.8_hello_admin">
-    <configuration name="amusement_park" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.alien">
+    <configuration name="alien" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="book1" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -58,7 +58,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/amusement_park.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/alien.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -174,11 +174,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.alien" />
         <item itemvalue="Python.ex_5.8_hello_admin" />
         <item itemvalue="Python.toppings" />
         <item itemvalue="Python.ex_5.3" />
         <item itemvalue="Python.command_if" />
-        <item itemvalue="Python.amusement_park" />
       </list>
     </recent_temporary>
   </component>
