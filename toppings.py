@@ -32,7 +32,7 @@ for requested_topping in requested_toppings:
     print(f"Adding {requested_topping}.")
 print("\nFinished making your pizza!")
 
-print("\n\n======================== new 2 =================")
+print("\n\n======================== new 2a =================")
 
 requested_toppings = ['mushrooms', 'green peppers', 'extra cheese']
 
