@@ -1,7 +1,8 @@
 alien_0 = {'color': 'green', 'points': '5'}
-
+del alien_0['points']
 print(alien_0['color'])
-print(alien_0['points'])
+print(alien_0)
+
 
 alien_0['color'] = 'yellow'
 print(f"The alien is now {alien_0['color']}.")
@@ -23,3 +24,9 @@ else:
 
 alien_0['x_position'] = alien_0['x_position'] + x_increment
 print(f"New position: {alien_0['x_position']}")
+
+print("\n\n============= new 2 =================")
+
+
+favorite_languages = {'jen': 'python', 'sarah': 'c', 'edward': 'ruby', 'phil': 'python'}
+print(favorite_languages)
