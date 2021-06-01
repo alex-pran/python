@@ -24,5 +24,9 @@ print(f"Tomas Favorite number is: {favorite_number3}")
 print(f"Ella's Favorite number is: {favorite_number4}")
 print(f"Rota Favorite number is: {favorite_number5}")
 
+for key, value in names.items():
+    print(f"\nKey: {key}")
+    print(f"Value: {value}")
+
 print("\n\n======================= 6.3 ===================")
 

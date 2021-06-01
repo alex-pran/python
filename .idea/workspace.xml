@@ -1,11 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5fd88d44-d95c-46f0-a7bf-40d90a055fd0" name="Default Changelist" comment="up12">
-      <change afterPath="$PROJECT_DIR$/alien_no_points.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex_6.1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/user.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/alien.py" beforeDir="false" afterPath="$PROJECT_DIR$/alien.py" afterDir="false" />
+    <list default="true" id="5fd88d44-d95c-46f0-a7bf-40d90a055fd0" name="Default Changelist" comment="6.1.2021">
+      <change beforePath="$PROJECT_DIR$/ex_6.1.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex_6.1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/favorite_languages.py" beforeDir="false" afterPath="$PROJECT_DIR$/favorite_languages.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,7 +40,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.general" />
   </component>
-  <component name="RunManager" selected="Python.user">
+  <component name="RunManager" selected="Python.favorite_languages">
     <configuration name="alien" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="book1" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -171,9 +169,9 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.user" />
-        <item itemvalue="Python.ex_6.1" />
         <item itemvalue="Python.favorite_languages" />
+        <item itemvalue="Python.ex_6.1" />
+        <item itemvalue="Python.user" />
         <item itemvalue="Python.alien_no_points" />
         <item itemvalue="Python.alien" />
       </list>
@@ -216,7 +214,14 @@
       <option name="project" value="LOCAL" />
       <updated>1622578387090</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="6.1.2021">
+      <created>1622588374436</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1622588374436</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -234,7 +239,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="up1" />
     <MESSAGE value="up12" />
-    <option name="LAST_COMMIT_MESSAGE" value="up12" />
+    <MESSAGE value="6.1.2021" />
+    <option name="LAST_COMMIT_MESSAGE" value="6.1.2021" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
