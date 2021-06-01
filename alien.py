@@ -28,5 +28,3 @@ print(f"New position: {alien_0['x_position']}")
 print("\n\n============= new 2 =================")
 
 
-favorite_languages = {'jen': 'python', 'sarah': 'c', 'edward': 'ruby', 'phil': 'python'}
-print(favorite_languages)
