@@ -20,11 +20,22 @@ if alien_0['speed'] == 'slow':
 elif alien_0['speed'] == 'medium':
     x_increment = 2
 else:
-    x_increment =3
+    x_increment = .3
 
 alien_0['x_position'] = alien_0['x_position'] + x_increment
 print(f"New position: {alien_0['x_position']}")
 
 print("\n\n============= new 2 =================")
 
+alien_2 = {'x_position': 0, 'y_position': 30, 'speed': 'medium'}
+print(f"Origin position: {alien_2['x_position']}.")
 
+if alien_2['speed'] == 'slow':
+    x_increment = 1
+elif alien_2['speed'] == 'medium':
+    x_increment = 2
+else:
+    x_increment = 3
+
+alien_2['x_position'] = alien_2['x_position'] + x_increment
+print(f"New Position: {alien_2['x_position']}")
