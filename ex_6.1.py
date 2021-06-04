@@ -3,7 +3,7 @@
 
 print("\n\n======================= 6.1 ===================")
 
-human = {'first_name':'john', 'last_name': 'doe', 'age': 38, 'city': 'atlanta'}
+human = {'first_name': 'john', 'last_name': 'doe', 'age': 38, 'city': 'atlanta'}
 print(human['first_name'].title())
 print(human['last_name'].title())
 print(human['age'])
@@ -30,3 +30,7 @@ for key, value in names.items():
 
 print("\n\n======================= 6.3 ===================")
 
+
+for key, value in human.items():
+    print(f"\nKey: {key}")
+    print(f"Value: {value}")

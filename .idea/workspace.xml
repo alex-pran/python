@@ -2,6 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5fd88d44-d95c-46f0-a7bf-40d90a055fd0" name="Default Changelist" comment="6.1.2021">
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_5_26_2021_5_51_PM_[Default_Changelist]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_5_26_2021_5_51_PM__Default_Changelist_.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ex_6.1.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex_6.1.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/favorite_languages.py" beforeDir="false" afterPath="$PROJECT_DIR$/favorite_languages.py" afterDir="false" />
     </list>
@@ -221,7 +224,14 @@
       <option name="project" value="LOCAL" />
       <updated>1622588374436</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="6.1.2021">
+      <created>1622589314937</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1622589314937</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
