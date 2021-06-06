@@ -23,7 +23,7 @@ for name in favorite_languages.keys():
 print('\n\n===================================')
 for name in favorite_languages:
     print(name.title())
-print('\n\n===================================')
+print('\n\n=============2222222======================')
 
 friends = ['phil', 'sarah']
 for name in favorite_languages.keys():
@@ -35,7 +35,8 @@ for name in favorite_languages.keys():
 
     if 'erin' not in favorite_languages.keys():
         print("\t\nErin, please take our poll")
-print('\n\n===================================')
+
+print('\n\n================22222222===================')
 
 for name in sorted(favorite_languages.keys()):
     print(f"{name.title()}, thank you for taking the poll.")

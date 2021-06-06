@@ -34,3 +34,5 @@ print("\n\n======================= 6.3 ===================")
 for key, value in human.items():
     print(f"\nKey: {key}")
     print(f"Value: {value}")
+
+print("\n\n ==================== 6.4 ======================")
